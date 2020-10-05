@@ -1,0 +1,5 @@
+[gerrit]
+host=review.calyxos.org
+port=29418
+project=CalyxOS/l10n_test
+defaultbranch=android10
