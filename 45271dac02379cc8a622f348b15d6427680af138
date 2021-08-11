@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "63b35e15_53c23345",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-08-11T13:30:11Z",
+      "side": 1,
+      "message": "Got it to work finally, see last comments in https://github.com/WeblateOrg/weblate/issues/6414\n\nNot ideal, it was nice to have the author lines here, so I won\u0027t do it for other projects and wait for weblate.",
+      "revId": "45271dac02379cc8a622f348b15d6427680af138",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
